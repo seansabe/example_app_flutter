@@ -6,6 +6,11 @@ A new Flutter project using Flutter v3.3.10.
 
 This example application implements simple Widgets creation, basic interaction features, sidebar and Navigation within screens.
 
+<img src="images/screen1.png">
+<img src="images/screen2.png">
+<img src="images/screen3.png">
+<img src="images/screen4.png">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
