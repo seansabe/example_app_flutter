@@ -6,10 +6,10 @@ A new Flutter project using Flutter v3.3.10.
 
 This example application implements simple Widgets creation, basic interaction features, sidebar and Navigation within screens.
 
-<img src="images/screen1.png">
-<img src="images/screen2.png">
-<img src="images/screen3.png">
-<img src="images/screen4.png">
+<img src="images/screen2.png" width="300">
+<img src="images/screen3.png" width="300">
+<img src="images/screen4.png" width="300">
+<img src="images/screen1.png" width="300">
 
 ## Getting Started
 
